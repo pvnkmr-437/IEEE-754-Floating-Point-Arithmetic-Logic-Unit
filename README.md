@@ -411,7 +411,3 @@ Future improvements can include optimization for speed and resource utilization,
 
 1. IEEE Standard for Floating-Point Arithmetic, IEEE Std 754-2008.
 2. Digital Design and Computer Architecture, David Money Harris and Sarah L. Harris, 2nd Edition.
-
----
-
-This report provides a detailed overview of the FALU project, its implementation, and the results of its validation.
